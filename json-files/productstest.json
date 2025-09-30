@@ -1,0 +1,1 @@
+{"_id":{"$oid":"68dc19953d1b63ef56a37163"},"product1":{"id":1,"name":"Wireless Mouse","price":19.99,"category":"Electronics","inStock":true},"product2":{"id":2,"name":"Mechanical Keyboard","price":49.99,"category":"Electronics","inStock":false},"product3":{"id":3,"name":"Water Bottle","price":9.99,"category":"Accessories","inStock":true}}
